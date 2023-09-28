@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Associate Professor, School of Computer Science, <a href='#'>University of Birmingham</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
